@@ -1,0 +1,21 @@
+{
+  "name": "projectclarigotask",
+  "version": "1.0.0",
+  "description": "This project will consit mysql and nodejs react connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MYSQL",
+    "Node.Js",
+    "express",
+    "body-parser",
+    "CRUD"
+  ],
+  "author": "Purnima Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
